@@ -14,7 +14,7 @@ I am a 2nd-year B.Tech student at MRIIRS focused on building industry-level skil
 ### 🔬 Project Highlights
 - [cite_start]**[Recommendation System](https://github.com/Raghavisgeek/recommendation-system):** A logic-based engine using Python and Scikit-learn to provide personalized suggestions through data filtering[cite: 18, 19, 20].
 - [cite_start]**[OOP Framework](https://github.com/Raghavisgeek/oop-framework):** A structured C++ application demonstrating scalable design principles like inheritance and polymorphism[cite: 21, 22, 23].
-- **[Dental X-Ray Analysis]:** Research-based project involving 2D dental X-ray segmentation for lesion healing analysis (Work in Progress).
+- **[Dental X-Ray Analysis]:** Research-based project involving 2D dental X-ray segmentation
 
 ### 📈 GitHub Stats & Skills
 ![Raghav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raghavisgeek&show_icons=true&theme=radical)
