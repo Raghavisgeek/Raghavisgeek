@@ -1,27 +1,30 @@
 # Hi there, I'm Raghav Pandey 👋
 
-### 🚀 Computer Science Undergrad | Linux Enthusiast | Problem Solver
-[cite_start]I am a 2nd-year B.Tech student at MRIIRS with a strong foundation in **C++**, **Python**, and **Computer Science fundamentals**[cite: 6, 9, 13]. [cite_start]I am passionate about building efficient software and optimizing algorithms to $O(n)$ complexity[cite: 31].
+### 🚀 Aspiring Machine Learning Engineer | Computer Vision | $O(n)$ Optimization
+I am a 2nd-year B.Tech student at MRIIRS focused on building industry-level skills in **Machine Learning** and **Computer Vision**. I have a strong foundation in **Data Structures and Algorithms** and a disciplined focus on engineering mathematics.
 
 ---
 
-### 🛠️ Technical Toolkit
-- [cite_start]**Languages:** C, C++, Python [cite: 13]
-- [cite_start]**Environment:** Dedicated **Ubuntu (Linux)** developer [cite: 4, 32]
-- [cite_start]**Interests:** Machine Learning, Computer Vision, and Data Structures [cite: 14, 19]
-- [cite_start]**Core Knowledge:** OOPs, DBMS, Operating Systems [cite: 14, 15]
+### 🧠 Machine Learning & Technical Toolkit
+- **ML Focus:** Computer Vision, Recommendation Engines, Data Preprocessing
+- **Libraries:** NumPy, Pandas, Scikit-learn, PyTorch (CUDA supported)
+- **Languages:** C++, Python, C
+- **Core CS:** OOPs, DBMS, Operating Systems, Discrete Mathematics
 
-### 📊 Project Highlights
-- [cite_start]**[Recommendation System](https://github.com/Raghavisgeek):** A logic-based suggestions engine built with Python and Scikit-learn[cite: 18, 19].
-- [cite_start]**[OOPs Framework](https://github.com/Raghavisgeek):** A C++ application demonstrating inheritance and polymorphism principles[cite: 21, 22].
+### 🔬 Project Highlights
+- [cite_start]**[Recommendation System](https://github.com/Raghavisgeek/recommendation-system):** A logic-based engine using Python and Scikit-learn to provide personalized suggestions through data filtering[cite: 18, 19, 20].
+- [cite_start]**[OOP Framework](https://github.com/Raghavisgeek/oop-framework):** A structured C++ application demonstrating scalable design principles like inheritance and polymorphism[cite: 21, 22, 23].
+- **[Dental X-Ray Analysis]:** Research-based project involving 2D dental X-ray segmentation for lesion healing analysis (Work in Progress).
 
-### 🏆 Academic & Certifications
-- [cite_start]Achieved **79/80** in University Mathematics (Multivariate Calculus)[cite: 11].
-- [cite_start]Certified in **Data Structures and Algorithms** by Infosys[cite: 27].
-- [cite_start]Certified in **Object-Oriented Programming** by LinkedIn & Infosys[cite: 26].
+### 📈 GitHub Stats & Skills
+![Raghav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raghavisgeek&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raghavisgeek&layout=compact&theme=radical)
 
 ---
+
+### 🏆 Academic Milestones
+- [cite_start]**Certifications:** Data Structures (Infosys), OOPs (LinkedIn & Infosys), Python Programming[cite: 25, 26, 27].
 
 ### 📫 Let's Connect!
-- [cite_start]**LinkedIn:** [linkedin.com/in/raghav-pandey-90aa2b31b/](https://linkedin.com/in/raghav-pandey-90aa2b31b/) [cite: 3]
+- **LinkedIn:** [linkedin.com/in/raghav-pandey-90aa2b31b/](https://linkedin.com/in/raghav-pandey-90aa2b31b/)
 - [cite_start]**Email:** raghavpandeyps3@gmail.com [cite: 2]
